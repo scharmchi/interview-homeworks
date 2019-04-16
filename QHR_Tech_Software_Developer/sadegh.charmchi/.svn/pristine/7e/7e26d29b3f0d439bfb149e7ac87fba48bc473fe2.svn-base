@@ -1,0 +1,7 @@
+QHR Technologies Software Development Quiz
+Digit Square Sum submission by Sadegh Charmchi
+PASSED -     questionOne:          7,929.731µs
+PASSED -     questionTwo:          4,623.902µs
+PASSED -   questionThree:          8,138.781µs
+     Class instantiation:            348.627µs
+PASSED -  Total run time:         21,041.041µs
